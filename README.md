@@ -23,9 +23,9 @@
 
 #5、控制流语句：if；while；for；try
 
-#6、算术操作符：+ =；— =；
+#6、算术操作符：+ =；- =；
 
-#7、输入、输出：input；print
+#7、输入、输出：input() raw_input()  python2:print 语句   python3:print()函数
 
 #字典(键值):  d={'x':1,'y':2,'z':3}   print "The float is %(x)f." %d
 
