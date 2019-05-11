@@ -32,7 +32,11 @@
 #8、函数的创建与调用
 
 #定义函数 def printName(name) #print name
+
 #调用函数 printName('Tony')
+
 #判断调用 callable()
+
 #内置函数 _builtin_
+
 #内置函数 dir(),id(),str(),help(),len(),callable(),
