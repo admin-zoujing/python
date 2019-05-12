@@ -57,3 +57,18 @@
 #标识符：第一个字符只能字母或下划线；区分大小写；余下字符可以是字母，下划线，数字
 
 #注释、文档、缩进、标识符名称、python风格指南、命名惯例、
+
+# python文件结构
+#起始行: #/usr/bin/env ptthon
+
+#模块文档: "This is a test module"
+
+#模块导入：import sys
+
+#（全局）变量定义：debug=True
+
+#类定义: class FooClass(object): "Foo class" pass
+
+#函数定义: def test(): "test function" foo=FooClass()      if debug: print 'ran test()'
+
+#主程序： _name_导入就是模块名，执行就是_main_
