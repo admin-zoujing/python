@@ -59,7 +59,7 @@
 #注释、文档、缩进、标识符名称、python风格指南、命名惯例、
 
 # python文件结构
-#起始行: #/usr/bin/env ptthon
+#起始行: #/usr/bin/env python
 
 #模块文档: "This is a test module"
 
