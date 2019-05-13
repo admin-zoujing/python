@@ -90,3 +90,4 @@
 
 #其他文件类工具：pipes，fifos，sockets
 
+#类型转换：str(),repr(),format()将非字符型数据转换字符
