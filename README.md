@@ -90,4 +90,4 @@
 
 #其他文件类工具：pipes，fifos，sockets
 
-#类型转换：str(),repr(),format()将非字符型数据转换字符
+#类型转换：str(),repr(),format()将非字符型数据转换字符；int()转为整数；float()转为浮点；
