@@ -72,3 +72,14 @@
 #函数定义: def test(): "test function" foo=FooClass()      if debug: print 'ran test()'
 
 #主程序： _name_导入就是模块名，执行就是_main_
+
+# python核心数据类型
+数字：int，long，float，complex，bool
+字符：str，unicode
+列表：list
+字典：dict
+元组：tuple
+文件：file
+其他：集合（set），frozenset，类类型，None
+其他文件类工具：pipes，fifos，sockets
+
