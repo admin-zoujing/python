@@ -67,7 +67,7 @@
 
 #（全局）变量定义：debug=True
 
-#类定义: class FooClass(object): "Foo class" pass
+#类定义: class FooClass(object): "Foo class" pass    数据和方法（数据：变量，方法：函数）
 
 #函数定义: def test(): "test function" foo=FooClass()      if debug: print 'ran test()'
 
