@@ -105,3 +105,6 @@
         min(s) max(s) sum(s) all(s) any(s)
 #数据序列
 
+
+
+
