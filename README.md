@@ -29,7 +29,7 @@
 
 #6、算术操作符：+ =；- =；
 
-#7、输入、输出：input() raw_input()  python2:print 语句   python3:print()函数
+#7、输入、输出：input() raw_input()  python2:print 语句   python3:print(函数)
 
 #字典(键值):  d={'x':1,'y':2,'z':3}   print "The float is %(x)f." %d
 
