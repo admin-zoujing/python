@@ -90,7 +90,7 @@
 
 #其他文件类工具：pipes，fifos，sockets
 
-#类型转换：str(),repr(),format()将非字符型数据转为字符；int()转为整数；float()转为浮点；list(s)转为列表；tuples(s)转为元组；set(s)转为集合；frozenset(s)将字串s转换为不可变集合；dict(d)创建字典；chr(x):将整数转为字符；ord(x):将字符转换为整数;hex(x):将整数转换为16进制字符；bin(xx);oct(x);
+#类型转换：str(),repr(),format()将非字符型数据转为字符；int()转为整数；float()转为浮点；list(s)将字串s转为列表；tuples(s)将字串s转为元组；set(s)将字串s转为集合；frozenset(s)将字串s转换为不可变集合；dict(d)创建字典；其d必须是(key, value)的元组序列；chr(x):将整数转为字符；ord(x):将字符转换为整数值;hex(x):将整数转换为16进制字符；bin(xx);oct(x);
 
 #数字类型：
 #python的数字字面量：布尔型（true：1 false：0），整数，浮点型，复数
