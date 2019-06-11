@@ -103,3 +103,5 @@
         切片[i:j]
         扩展[i:j:stride]
         min(s) max(s) sum(s) all(s) any(s)
+
+
